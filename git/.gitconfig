@@ -1,3 +1,6 @@
+[user]
+  name = Morgan Christiansson
+  email = git@mog.se
 [push]
 	default = current
 [alias]
